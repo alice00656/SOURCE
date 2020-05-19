@@ -1,3 +1,7 @@
-well come to use source tree!!
+<<<<<<< HEAD
+welcome to use source tree!!
 
-it is hard to understand GitHub
+I can do it!
+=======
+well come to use source tree!!
+>>>>>>> parent of 3d0e4af... second stage
